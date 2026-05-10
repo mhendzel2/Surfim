@@ -17,7 +17,7 @@ classifiers = [
 ]
 dependencies = [
     "numpy",
-    # "datoviz" # Will be added once tested
+    "datoviz"
 ]
 
 [project.urls]
